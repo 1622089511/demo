@@ -1,0 +1,8 @@
+//保存网站建设者等的开发之类的信息，给其他用户看
+/*  TEAM  */
+	Devoloper : blues
+/*  THANKS */
+	
+	Wayne
+
+/*  SITE  */
